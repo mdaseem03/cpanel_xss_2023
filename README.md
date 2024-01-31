@@ -1,11 +1,13 @@
 
 ## About the Tool ⚒️
 
-`cpanel_xss_2023` is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.
+`cpanel_xss_2023` is a simple Python script designed for finding CVE-2023-29489 vulnerability and exploitability in cpanel.
+
+![Working](assets/images/working.jpg)
 
 ## Features ⚙️
 
-- **CVE-2023-29489 Scanning:** Identifies and scans for the CVE-2023-29489 vulnerability.
+- **CVE-2023-29489 Scanning:** Identifies and scans for the CVE-2023-29489 vulnerability and exploitation.
 - **URL Input:** Supports scanning a single URL or reading multiple URLs from a file.
 - **Output Logging:** Allows users to write the scan results to an output file.
 - **Telegram Notification:** Option to create Telegram notifications for scan results.
