@@ -58,6 +58,8 @@ cpanel_xss_2023 -u https://example.com -c your_telegram_chat_id
 
 ## Help Menu ❓
 
+![Help](assets/images/help.jpg)
+
 - `u, --url:` Specify the URL to scan for the CVE-2023-29489 vulnerability.
 Example: cpanel_xss_2023 -u https://target.com
 
