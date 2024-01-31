@@ -46,7 +46,13 @@ Before using `cpanel_xss_2023`, make sure you have the following prerequisites i
 
    - Create a Telegram bot using the [BotFather](https://core.telegram.org/bots#botfather).
    - Obtain your chat ID using the [get_id_bot](https://t.me/get_id_bot).
-   
+
+## Installation ⬇️
+
+```bash
+pip install cpanel-xss-2023
+sudo cp ~/.local/lib/python3.11/site-packages/cpanel_xss_2023 /usr/bin
+```
 
 ## Usage 🚀
 
