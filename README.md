@@ -51,7 +51,7 @@ Before using `cpanel_xss_2023`, make sure you have the following prerequisites i
 
 ```bash
 pip install cpanel-xss-2023
-sudo cp ~/.local/lib/python3.11/site-packages/cpanel_xss_2023 /usr/bin
+sudo cp ~/.local/bin/cpanel_xss_2023 /usr/bin
 ```
 
 ## Usage 🚀
