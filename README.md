@@ -80,6 +80,9 @@ Example: cpanel_xss_2023 --chatid your_telegram_chat_id
 
 - `h, --help:` Display the help menu.
 
+## PyPi Module Link
+[Link](https://pypi.org/project/cpanel-xss-2023/)
+
 ## Disclaimer ⚠️
 This script is intended for educational and ethical purposes only. Unauthorized use of this script to perform malicious activities is strictly prohibited. The developers are not responsible for any misuse or damage caused by this script.
 
